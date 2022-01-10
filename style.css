@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.mainbox{
+	width: 1000px;
+	height: 600px;
+	margin: auto;
+	border: 0px solid;
+}
+
+.box1{
+	width: 100%;
+	height: 200px;
+	background: orange;
+}
+
+.box2{
+	width: 100%;
+	height: 200px;
+	display: flex;
+}
+
+.gol{
+	height: 150px;
+	width: 150px;
+	background: orange;
+	border-radius: 50%;
+	margin: auto;
+}
+
+.box3{
+	width: 100%;
+	height: 200px;
+	background: green;
+}
+
